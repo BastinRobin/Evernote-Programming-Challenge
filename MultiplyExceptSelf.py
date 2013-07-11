@@ -1,4 +1,5 @@
 #!/bin/python
+'''It was really awesome and more enjoyable'''
 #Multiplication of list elements
 def mul(args):
     x= 1
